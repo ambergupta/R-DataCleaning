@@ -1,7 +1,23 @@
+R-DataCleaning
 
-The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. 
-The goal is to prepare tidy data that can be used for later analysis.
+The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 
+R Version Details
+
+version _
+platform x86_64-apple-darwin13.1.0
+arch x86_64
+os darwin13.1.0
+system x86_64, darwin13.1.0
+status
+major 3
+minor 1.1
+year 2014
+month 07
+day 10
+svn rev 66115
+language R
+version.string R version 3.1.1 (2014-07-10) nickname Sock it to Me
 About Data
 
 This data is collected for wearable computing for Samsung Galaxy S smartphone for analysis. A full description is available at the site where the data was obtained:
@@ -22,8 +38,6 @@ Run the script from the same folder where you have extracted the zipped data.
 
 $Rscript run_analysis
 
-Output
+Result
 
-Script generate two data sets 
- - data_tidy.txt 
-- data_tidy_mean.txt
+Generates two data sets 1- data_tidy.txt 2- data_tidy_mean.txt
